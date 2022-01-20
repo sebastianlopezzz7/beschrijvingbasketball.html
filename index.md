@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Beschrijving van Basketbal
 
-You can use the [editor on GitHub](https://github.com/sebastianlopezzz7/beschrijvingbasketball.html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Basketbal is een wedstrijdsport die in 1891 door James Naismith in Springfield, Massachusetts (Verenigde Staten) werd uitgevonden.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Oorspronkelijk was het een Amerikaanse mannensport. Het huidige basketbal wordt op bijna elk continent door zowel mannen als vrouwen beoefend. Twee teams van elk vijf aan het spel deelnemende spelers en zeven wisselspelers komen tegen elkaar uit. Het doel van het spel is de bal te veroveren en deze door een ijzeren ring - de basket - te werpen en te verhinderen dat de tegenstander hetzelfde doet. De basket heeft een doorsnede van 45,0 cm, hangt op een hoogte van 3,048 meter (10 feet) bevestigd aan een backboard en is voorzien van een net. Aan elk van de korte zijden van het rechthoekig basketbalveld bevindt zich een basket. Basketbal wordt zowel binnen als buiten (het zogenaamde streetbasketball of streetball) beoefend. Binnen is de ondergrond doorgaans van hardhout of kunststof en buiten wordt op asfalt gespeeld. Internationale basketbalwedstrijden worden volgens de officiële regels van de FIBA gespeeld. De NBA heeft hier echter sinds jaar en dag een grote invloed op en neemt vaak het voortouw in spelregelwijzigingen, die later door de FIBA worden overgenomen.
 
-### Markdown
+### Afbeelding
+<img src="https://clutchpoints.com/wp-content/uploads/2020/03/LeBron-james-anthony-davis-alex-caruso-rajon-rondo-danny-green-dwight-howard-kyle-kuzma-avery-bradley-lakers.jpg" alt="Trick" width="500" height="480">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Bronnen
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebastianlopezzz7/beschrijvingbasketball.html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Wikipedia Basketbal](https://nl.wikipedia.org/wiki/Basketbal)
