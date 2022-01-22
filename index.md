@@ -12,5 +12,5 @@ Oorspronkelijk was het een Amerikaanse mannensport. Het huidige basketbal wordt 
 [Wikipedia Basketbal](https://nl.wikipedia.org/wiki/Basketbal)
 
    <header>
-<a href="https://sebastianlopezzz7.github.io/">Hoofdpagina</a>
+<a href="https://sebastianlopezzz7.github.io/">[..Naar Hoofdpagina..]</a>
   </header>
